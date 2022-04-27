@@ -1,6 +1,4 @@
 import "./Styles.css";
-import React, { useState } from "react";
-import "./Styles.css";
 
 export default function Search() {
   return (
