@@ -20,15 +20,7 @@ export default function Forecast() {
             />
             <div className="float-left">
               <strong id="temperature">18</strong>
-              <span className="units">
-                <a href="#" id="celsius-link" className="active">
-                  ºC
-                </a>{" "}
-                |
-                <a href="#" id="fahrenheit-link">
-                  ºF
-                </a>
-              </span>
+              <span className="units">ºC | ºF</span>
             </div>
           </div>
         </div>
