@@ -3,7 +3,6 @@ import "./Styles.css";
 import Search from "./Search";
 import Forecast from "./Forecast";
 import Footer from "./Footer";
-import SearchEngine from "./SearchEngine";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
